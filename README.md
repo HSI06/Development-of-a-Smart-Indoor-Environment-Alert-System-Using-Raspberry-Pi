@@ -1,4 +1,4 @@
-# HSI06/Development-of-a-Smart-Indoor-Environment-Alert-System-Using-Raspberry-Pi
+# Development of a Smart Indoor Environment Alert System Using Raspberry Pi
 
 AIoT설계입문 기말 프로젝트 (202578207 황사익)
 
