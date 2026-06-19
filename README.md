@@ -1,6 +1,6 @@
 # Development-of-a-Smart-Indoor-Environment-Alert-System
 
-AIoT설계입문 기말 프로젝트 (2026-1학기)
+AIoT설계입문 기말 프로젝트 (202578207 황사익)
 
 가스 누출과 외부 미세먼지/날씨 정보를 종합하여 실내 환경 위험을 자동으로 알려주는 라즈베리파이 기반 IoT 시스템입니다.
 
